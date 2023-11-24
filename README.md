@@ -36,6 +36,7 @@ The numerical features include common meteorological parameters such as temperat
 ## III. Exploratory Data Analysis
 
 The dataset underwent curation, and exploratory visualizations provided insights into PM2.5 distribution and influential factors. In the pursuit of refining the dataset for scientific investigation, several thoughtful operations were executed to curate a dataset that is both pertinent and devoid of extraneous information. Each operation was undertaken with meticulous consideration, enhancing the overall quality and relevance of the data.
+
 ![image](https://github.com/srdjop/Analysis-and-prediction-of-PM2.5-concentration/assets/70009934/f9e83693-a25a-465b-a47d-b11ac6f660af)
 ![image](https://github.com/srdjop/Analysis-and-prediction-of-PM2.5-concentration/assets/70009934/bd4c73ac-825d-4d7c-9704-9a049a2b2ea2)
 
