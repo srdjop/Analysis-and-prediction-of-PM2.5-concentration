@@ -87,9 +87,9 @@ Results from the kNN classifier demonstrated robust performance, as shown in the
    - Open a terminal or command prompt.
    - Run the following command to clone the repository to your local machine:
      ```bash
-     git clone https://github.com/yourusername/PM2.5-Chengdu-Analysis.git
+     git clone https://github.com/srdjop/PM2.5-Chengdu-Analysis.git
      ```
-   - Replace "yourusername" with your actual GitHub username.
+ 
 
 2. **Navigate to the Project Directory:**
    - Change into the project directory:
