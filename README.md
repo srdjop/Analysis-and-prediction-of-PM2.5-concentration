@@ -3,7 +3,7 @@
 **Author: Srdjan Protic**  
 **Contact: protic783@gmail.com**
 
-This repository contains the analysis and prediction of PM2.5 concentrations in Chengdu, China, based on environmental parameters. The project encompasses linear regression for prediction and k-Nearest Neighbors (kNN) classification for hazard categorization.
+This repository contains the analysis and prediction of PM2.5 concentrations in Chengdu, China, based on environmental parameters. The project encompasses linear regression for prediction and k-nearest Neighbors (kNN) classification for hazard categorization.
 
 ## Table of Contents
 
