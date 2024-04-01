@@ -13,9 +13,6 @@ This repository contains the analysis and prediction of PM2.5 concentrations in 
 4. [Linear Regression](#iv-linear-regression)
 5. [kNN Classifier](#v-knn-classifier)
 6. [Model Evaluation Results](#vi-model-evaluation-results)
-7. [How to Use](#vii-how-to-use)
-8. [License](#viii-license)
-9. [Acknowledgments](#ix-acknowledgments)
 
 ## I. Introduction
 
@@ -80,43 +77,3 @@ Results from the kNN classifier demonstrated robust performance, as shown in the
 | Sensitivity| 0.9867| 0.9867 | 0.9834    |
 | Specificity| 0.9917| 0.9860 | 0.9980    |
 | F score   | 0.9867| 0.9867 | 0.9834    |
-
-## VII. How to Use
-
-1. **Clone the Repository:**
-   - Open a terminal or command prompt.
-   - Run the following command to clone the repository to your local machine:
-     ```bash
-     git clone https://github.com/srdjop/PM2.5-Chengdu-Analysis.git
-     ```
- 
-
-2. **Navigate to the Project Directory:**
-   - Change into the project directory:
-     ```bash
-     cd PM2.5-Chengdu-Analysis
-     ```
-
-3. **Install Dependencies:**
-   - Ensure you have Python installed on your machine.
-   - Install the required dependencies by running:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-4. **Open Jupyter Notebook:**
-   - Start Jupyter Notebook by running:
-     ```bash
-     jupyter notebook
-     ```
-   - This will open a new tab in your web browser showing the Jupyter file explorer.
-
-5. **Explore the Analysis:**
-   - In the Jupyter file explorer, locate and open the `PM2.5_Chengdu_Analysis.ipynb` notebook.
-
-6. **Run the Notebook:**
-   - Inside the notebook, you can run each cell by clicking on it and pressing `Shift + Enter`.
-   - Explore the code, visualizations, and results provided in the notebook.
-
-7. **Contribute:**
-   - Feel free to contribute by raising issues, submitting pull requests, or improving the analysis.
